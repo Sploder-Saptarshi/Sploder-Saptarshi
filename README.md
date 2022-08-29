@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello person. 👋
+
+I'm a frontend/backend developer and am experienced with PHP, HTML, Javascript, CSS and Python!
+<br><br>
+The best thing I've made till date: <a href="https://github.com/Sploder-Saptarshi/Sploder-Player">Sploder Player</a>
 
 <!--
 **Sploder-Saptarshi/Sploder-Saptarshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
