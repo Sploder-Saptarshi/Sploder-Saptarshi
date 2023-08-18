@@ -4,6 +4,7 @@ I'm a frontend/backend developer and am experienced with PHP, HTML, Javascript, 
 <br><br>
 The best thing I've made till date: <a href="https://github.com/Sploder-Saptarshi/Sploder-Player">Sploder Player</a>
 
+Contact me on Discord @malware8148
 <!--
 **Sploder-Saptarshi/Sploder-Saptarshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
