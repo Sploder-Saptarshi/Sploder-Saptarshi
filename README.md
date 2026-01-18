@@ -4,7 +4,7 @@ I'm a frontend/backend developer, experienced with PHP, Javascript, Actionscript
 
 Contact me on Discord @logic.layer
 
-![](https://github-readme-stats.vercel.app/api?username=Sploder-Saptarshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Sploder-Saptarshi&theme=dark&hide_border=false&include_all_commits=falsecount_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sploder-Saptarshi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sploder-Saptarshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=angelscript,actionscript)
 <!--
