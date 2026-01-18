@@ -16,6 +16,8 @@ Contact me on Discord @logic.layer
   <img src="https://github-readme-stats.vercel.app/api?username=Sploder-Saptarshi&theme=default&hide_border=false" />
 </picture>
 
+<br>
+
 <picture>
   <source
     srcset="https://nirzak-streak-stats.vercel.app/?user=Sploder-Saptarshi&theme=dark&hide_border=false"
@@ -27,6 +29,8 @@ Contact me on Discord @logic.layer
   />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sploder-Saptarshi&theme=default&hide_border=false" />
 </picture>
+
+<br>
 
 <picture>
   <source
