@@ -4,9 +4,42 @@ I'm a frontend/backend developer, experienced with PHP, Javascript, Actionscript
 
 Contact me on Discord @logic.layer
 
-![](https://github-readme-stats.vercel.app/api?username=Sploder-Saptarshi&theme=dark&hide_border=false&include_all_commits=falsecount_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sploder-Saptarshi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sploder-Saptarshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=angelscript,actionscript)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Sploder-Saptarshi&theme=dark&hide_border=false"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Sploder-Saptarshi&theme=default&hide_border=false"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sploder-Saptarshi&theme=default&hide_border=false" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://nirzak-streak-stats.vercel.app/?user=Sploder-Saptarshi&theme=dark&hide_border=false"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://nirzak-streak-stats.vercel.app/?user=Sploder-Saptarshi&theme=default&hide_border=false"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sploder-Saptarshi&theme=default&hide_border=false" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sploder-Saptarshi&theme=dark&layout=compact&hide=angelscript,actionscript"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sploder-Saptarshi&theme=default&layout=compact&hide=angelscript,actionscript"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sploder-Saptarshi&theme=default&layout=compact&hide=angelscript,actionscript" />
+</picture>
+
 <!--
 **Sploder-Saptarshi/Sploder-Saptarshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
