@@ -1,10 +1,13 @@
 ### Hello person. 👋
 
-I'm a frontend/backend developer and am experienced with PHP, HTML, Javascript, CSS and Python!
+I'm a frontend/backend developer, experienced with PHP, Javascript, Actionscript, Python, PostgreSQL, HTML, CSS!
 <br><br>
-The best thing I've made till date: <a href="https://github.com/Sploder-Saptarshi/Sploder-Player">Sploder Player</a>
 
-Contact me on Discord @malware8148
+Contact me on Discord @logic.layer
+
+![](https://github-readme-stats.vercel.app/api?username=Sploder-Saptarshi&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sploder-Saptarshi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sploder-Saptarshi&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <!--
 **Sploder-Saptarshi/Sploder-Saptarshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
