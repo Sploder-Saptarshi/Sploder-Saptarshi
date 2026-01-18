@@ -1,7 +1,6 @@
 ### Hello person. 👋
 
 I'm a frontend/backend developer, experienced with PHP, Javascript, Actionscript, Python, PostgreSQL, HTML, CSS!
-<br><br>
 
 Contact me on Discord @logic.layer
 
