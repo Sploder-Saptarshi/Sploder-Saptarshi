@@ -6,14 +6,14 @@ Contact me on Discord @logic.layer
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Sploder-Saptarshi&theme=dark&hide_border=false"
+    srcset="https://github-stats-extended.vercel.app/api?username=Sploder-Saptarshi&theme=dark&hide_border=false"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Sploder-Saptarshi&theme=default&hide_border=false"
+    srcset="https://github-stats-extended.vercel.app/api?username=Sploder-Saptarshi&theme=default&hide_border=false"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sploder-Saptarshi&theme=default&hide_border=false" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Sploder-Saptarshi&theme=default&hide_border=false" />
 </picture>
 
 <br>
