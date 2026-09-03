@@ -34,14 +34,14 @@ Contact me on Discord @logic.layer
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sploder-Saptarshi&theme=dark&layout=compact&hide=angelscript,actionscript"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Sploder-Saptarshi&theme=dark&layout=compact&hide=angelscript,actionscript"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sploder-Saptarshi&theme=default&layout=compact&hide=angelscript,actionscript"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Sploder-Saptarshi&theme=default&layout=compact&hide=angelscript,actionscript"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sploder-Saptarshi&theme=default&layout=compact&hide=angelscript,actionscript" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sploder-Saptarshi&theme=default&layout=compact&hide=angelscript,actionscript" />
 </picture>
 
 <!--
