@@ -20,14 +20,14 @@ Contact me on Discord @logic.layer
 
 <picture>
   <source
-    srcset="https://nirzak-streak-stats.vercel.app/?user=Sploder-Saptarshi&theme=dark&hide_border=false"
+    srcset="https://nirzak-streak-stats.koyeb.app/?user=Sploder-Saptarshi&theme=dark&hide_border=false"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://nirzak-streak-stats.vercel.app/?user=Sploder-Saptarshi&theme=default&hide_border=false"
+    srcset="https://nirzak-streak-stats.koyeb.app/?user=Sploder-Saptarshi&theme=default&hide_border=false"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sploder-Saptarshi&theme=default&hide_border=false" />
+  <img src="https://nirzak-streak-stats.koyeb.app/?user=Sploder-Saptarshi&theme=default&hide_border=false" />
 </picture>
 
 <br>
